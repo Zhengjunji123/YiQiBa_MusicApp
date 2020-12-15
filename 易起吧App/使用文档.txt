@@ -1,0 +1,9 @@
+
+
+
+作者：郑俊吉
+耗时：1个月半
+
+1.先打开网易云接口(node.js搭建的后台) 用git或者是cmd命令行工具 输入“node app.js”
+2.再打开music文件  用git或者是cmd命令行工具 输入“npm run serve”让项目跑起来
+3.跑起来后会提示在本地的多少端口浏览 比如：http://localhost:8080/ + find  就可以浏览本项目的首页
